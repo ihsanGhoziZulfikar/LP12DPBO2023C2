@@ -3,4 +3,4 @@
 Menggunakan MVP karena terdapat interface dan relasi view dengan presenter one to one.
 
 ## Perubahan
-Strukturnya menjadi MVVM karena terdapat UserProcess yang menghadnle Game? dan Menu
+Strukturnya menjadi MVVM karena terdapat UserProcess yang menghandle Game? dan Menu
